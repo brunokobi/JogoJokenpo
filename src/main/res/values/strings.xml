@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JO KEN PO</string>
+    <string name="escolhadoapp">MÁQUINA</string>
+    <string name="escolhaplay">JOGADOR</string>
+    <string name="fazerescolha">FAÇA SUA ESCOLHA:</string>
+    <string name="SuaJogada">Sua Jogada</string>
+    <string name="VS">X</string>
+</resources>
